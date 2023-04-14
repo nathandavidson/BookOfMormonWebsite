@@ -1,0 +1,16 @@
+.titlesite {
+    font-size: 12pt;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.cropped-ofp {
+    object-position: 25% 25%;
+}
+
+.date {
+    font-style: italic;
+    color: gray;
+}
